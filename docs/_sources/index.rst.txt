@@ -9,9 +9,8 @@ Welcome to JX Knowledge Base's documentation!
 .. toctree::
    :maxdepth: 4
    :glob:
-   :caption: Contents:
 
-    notebooks/*
+   notebooks/*
 
 
 Indices and tables
